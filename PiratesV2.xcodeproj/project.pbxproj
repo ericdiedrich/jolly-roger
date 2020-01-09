@@ -15,6 +15,7 @@
 		362404DD23C77ACA00207356 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 362404DB23C77ACA00207356 /* LaunchScreen.storyboard */; };
 		362404E823C77ACA00207356 /* PiratesV2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 362404E723C77ACA00207356 /* PiratesV2Tests.swift */; };
 		362404F323C77ACA00207356 /* PiratesV2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 362404F223C77ACA00207356 /* PiratesV2UITests.swift */; };
+		36AD408D23C7883B007AF208 /* PiratesAndShips.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36AD408C23C7883B007AF208 /* PiratesAndShips.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		362404EE23C77ACA00207356 /* PiratesV2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PiratesV2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		362404F223C77ACA00207356 /* PiratesV2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PiratesV2UITests.swift; sourceTree = "<group>"; };
 		362404F423C77ACA00207356 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		36AD408C23C7883B007AF208 /* PiratesAndShips.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PiratesAndShips.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				362404D223C77AC900207356 /* SceneDelegate.swift */,
 				362404D423C77AC900207356 /* ViewController.swift */,
 				362404D623C77AC900207356 /* Main.storyboard */,
+				36AD408C23C7883B007AF208 /* PiratesAndShips.swift */,
 				362404D923C77ACA00207356 /* Assets.xcassets */,
 				362404DB23C77ACA00207356 /* LaunchScreen.storyboard */,
 				362404DE23C77ACA00207356 /* Info.plist */,
@@ -261,6 +264,7 @@
 			files = (
 				362404D523C77AC900207356 /* ViewController.swift in Sources */,
 				362404D123C77AC900207356 /* AppDelegate.swift in Sources */,
+				36AD408D23C7883B007AF208 /* PiratesAndShips.swift in Sources */,
 				362404D323C77AC900207356 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
